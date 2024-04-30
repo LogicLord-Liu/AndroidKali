@@ -58,4 +58,65 @@ This passage will show you how to install Kali Linux in Android.
   >>* To stop the NetHunter KeX GUI `nethunter kex stop`
   >>* To run NetHunter as root `nethunter -r`
   >>* You replace nethunter with nh in all these commands. `nh`
-  
+
+* Android Kali NetHunter Rootless Install-Fix dbus-x11 error
+  >1.To fix the dbus-x11 error, run nh -r
+  >
+  >2.Open the file/etc/resolv.conf with nano.
+  >
+  >3.Edit the ip address to be 8.8.8.8
+  >
+  >4.Press ctrl + x and enter **Y** to save the file.
+  >
+  >5.Run apt update.
+  >
+  >6.Run apt install dbus-x11 -y
+  >
+* Android Kali NetHunter Rootless Install-Stop killing of child processes.
+  >1.Unlock Developer options.
+  >
+  >![Developer](https://img-blog.csdnimg.cn/img_convert/51d528795350a9e3b4f2c3529fdb5866.png)
+  >
+  >![Developer](https://img-blog.csdnimg.cn/img_convert/e4e38d989a73336fccc779ae467190e6.png)
+  >
+  >![Developer](https://img-blog.csdnimg.cn/img_convert/2d19b9ebb2af8a8bf654265603ede0f0.png)
+  >
+  >2.Go to Developer options and ensure Disable child process restrictions is turned on.
+  >
+* Android Kali NetHunter Rootless Install-Start nh and nh kex
+  >1.Once you run nh you are now in the Kali NrtHunter CLI.
+  >
+  >2.You can exit the NrtHunter CLI by entering **exit**.
+  >
+  >3.Set the password for KeX VNC by running nh kex for the first time. You’ll use the password.
+  >
+* Android Kali NetHunter Rootless Install.
+  >4.Remember the port number. You will use it in Step 29.
+  >
+  >5.Set the password for KeX VNC by running nh kex for the first time. Say no to entering a 
+  >view-only password.
+  >
+  >6.Go to the Kali NetHunter APP Store website: https://store.nethunter.com/en/
+  >
+  >7.Download the NetHunter APP Store.
+  >
+  >8.Press on the Hamburger button of your browser,go to downloads and install NetHunterStore.apk
+  >
+  >9.Press on the search button and enter KeX.Press to dowmload NetHunter KeX.
+  >
+  >10.Press on the search button and enter KeX.Press to dowmload and install KeX.
+  >
+  >![NrtHunter KeX](https://img-blog.csdnimg.cn/img_convert/068706ce51cc0b54c893228333e7d1f0.jpeg)
+  >
+  >11.You will get a popup window. You click on Settings, and then toggle Allow from this 
+  >source. Then press Install.
+  >
+  >12.Press on Allow to allow NetHunter KeX access to your files on the device.
+  >
+  >13.Enter the port number from step 20,username as kali,and your password from step 19.Press on Connect.
+  >
+  >14.You now should have Rootless NetHunter GUI on your Android phone!
+  >
+  >![Kali Linux](https://img-blog.csdnimg.cn/direct/b9b562e4e7364c91b79698b27d1904d4.jpeg)
+
+#### Now， all of our steps have been completed, and you can proceed with various operations on your phone.
