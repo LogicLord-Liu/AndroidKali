@@ -120,3 +120,21 @@ This passage will show you how to install Kali Linux in Android.
   >![Kali Linux](https://img-blog.csdnimg.cn/direct/b9b562e4e7364c91b79698b27d1904d4.jpeg)
 
 #### Now， all of our steps have been completed, and you can proceed with various operations on your phone.
+
+********
+
+>>>Please pay attention:
+>>>
+>>>If you have some advance about this,please contact me with emali.
+>>>
+>>>*Email: luc444175@gmail.com or 769891117@qq.com
+>>>Get more information.
+>>>
+>>>1. Website: https://www.youtube.com/davidbombal
+>>>2. Website: https://www.kali.org/docs/nethunter/nethunter-rootless/
+
+********
+
+>>>If you have issues,please read the PDF instructions:
+>>>
+>>>https://davidbombal.wiki/nhandroid
