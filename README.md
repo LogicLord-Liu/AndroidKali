@@ -127,8 +127,9 @@ This passage will show you how to install Kali Linux in Android.
 >>>
 >>>If you have some advance about this,please contact me with emali.
 >>>
->>>*Email: luc444175@gmail.com or 769891117@qq.com
->>>Get more information.
+>>>* Email: luc444175@gmail.com or 769891117@qq.com
+>>>  
+>>>Get more information：
 >>>
 >>>1. Website: https://www.youtube.com/davidbombal
 >>>2. Website: https://www.kali.org/docs/nethunter/nethunter-rootless/
